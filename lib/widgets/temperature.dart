@@ -23,7 +23,7 @@ class Temperature extends StatelessWidget {
             style: TextStyle(
               fontSize: 32,
               fontWeight: FontWeight.w600,
-              color: Colors.white,
+              color: Colors.black,
             ),
           ),
         ),
@@ -34,7 +34,7 @@ class Temperature extends StatelessWidget {
               style: TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.w100,
-                color: Colors.white,
+                color: Colors.black,
               ),
             ),
             Text(
@@ -42,7 +42,7 @@ class Temperature extends StatelessWidget {
               style: TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.w100,
-                color: Colors.white,
+                color: Colors.black,
               ),
             )
           ],
